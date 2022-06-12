@@ -7,10 +7,9 @@ I use HTML, CSS, JavaScript, TypeScript, React.js, Vue.js, Angular.js, Node.js.
 
 ---
 Contacts
-<br/>
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png"/>
 
-https://www.linkedin.com/in/albertsivans/
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png"/>https://www.linkedin.com/in/albertsivans/
 
 <!--
 **AlbisIv/AlbisIv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
