@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F2eada1bbeb4ed4182079cf00070324a2%2Ftenor.gif%3Fitemid%3D13903117&f=1&nofb=1" />]
 <!--
 **AlbisIv/AlbisIv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
