@@ -4,11 +4,8 @@
 
 🤖Frontend web development.🤖
 
-I use HTML, CSS, JavaScript, TypeScript, React.js, Vue.js, Angular.js, Node.js.
-
 ---
 Contacts
-
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png"/>https://www.linkedin.com/in/albertsivans/
 
