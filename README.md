@@ -2,7 +2,8 @@
 
 👋👋 
 
-🤖I am currently learning Frontend web development.🤖
+🤖Frontend web development.🤖
+
 I use HTML, CSS, JavaScript, TypeScript, React.js, Vue.js, Angular.js, Node.js.
 
 ---
